@@ -73,16 +73,16 @@ img {
 select, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .form-control {
 	display: inline-block;
 	margin-bottom: 20px;
-	font-size: 15px;
-	line-height: 25px;
-	color: #484444;
+	font-size: 16px;
+	line-height: 35px;
+	color: #eff3f0;
 	height: 46px;
 	width: 100%;
 	vertical-align: middle;
 	box-shadow: none;
 	border-radius: 0px;
 	transition: all 200ms ease-in 0s;
-	background: rgba(255, 255, 255, 0) none repeat scroll 0% 0%;
+	background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%;
 	border: 2px solid rgba(236, 240, 241, 0.58);
 }
 
